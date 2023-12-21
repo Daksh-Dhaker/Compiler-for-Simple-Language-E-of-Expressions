@@ -1,0 +1,1 @@
+Designed and developed an E++ Compiler, optimizing expression evaluation, implementing variable management, enhancing symbol tables with AVL Trees for efficient lookup, and successfully implementing a minheap-based memory-variable mapping for improved memory allocation. This Project is an extension to the Project-4 (Expressions Evaluator for Rationals)
